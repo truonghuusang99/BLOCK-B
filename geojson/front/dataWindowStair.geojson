@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-08-27T10:45:03Z",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": 0
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80364787578583, 10.869965463298945, 29],
+                    [106.80363815277813, 10.869950317315446, 29]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": 0
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80381081998348, 10.870051071017356, 29],
+                    [106.80378165096043, 10.870048107673668, 29]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": 3
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80393990129232, 10.870006950119386, 29],
+                    [106.80392783135176, 10.870017815714265, 29]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": 0
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80402338504791, 10.869872611822746, 29],
+                    [106.80402372032404, 10.86985911213763, 29]
+                ]
+            }
+        }
+    ]
+}
