@@ -73,7 +73,49 @@ function renderGeo() {
     });
   }
 }
-
+// const create = await database.collection("NODE").insertMany([
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 0,
+//     geometry: [106.80398659173964, 10.870070197044123, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 1,
+//     geometry: [106.80406573456162, 10.86997819010412, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 2,
+//     geometry: [106.80407906110173, 10.869964138032328, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 3,
+//     geometry: [106.80413276640706, 10.869989158681213, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 4,
+//     geometry: [106.80414416579494, 10.86999771945331, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 5,
+//     geometry: [106.80412404922808, 10.870037230705965, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 6,
+//     geometry: [106.80403553633396, 10.87013271621164, 78]
+//   },
+//   {
+//     id_face: "5fd4b7ab1b8ace2690d5d792",
+//     index: 7,
+//     geometry: [106.80398659173964, 10.870070197044123, 78]
+//   }
+// ])
+// console.log(create)
 
 /** RENDER NODE TABLE ROOM
  * 
