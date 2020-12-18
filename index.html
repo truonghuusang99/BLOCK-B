@@ -75,8 +75,23 @@
       const geojsonWindowRoom01 = new GeoJSONLayer({
         url: "geojson/dataWindowRoom01.geojson"
       })
+      // const geojsonWindow = new GeoJSONLayer({
+      //   url: "geojson/data_window.geojson"
+      // })
       const geojsonWindow = new GeoJSONLayer({
-        url: "geojson/data_window.geojson"
+        url: "geojson/window/data_window.geojson"
+      })
+      const geojsonHorizontalLine = new GeoJSONLayer({
+        url: "geojson/window/data_windowHorizontalLine.geojson"
+      })
+      const geojsonWindowLine = new GeoJSONLayer({
+        url: "geojson/window/dataWindowLine.geojson"
+      })
+      const geojsonDoor_Roof = new GeoJSONLayer({
+        url: "geojson/window/data_door_roof.geojson"
+      })
+      const geojsonWindowSmall = new GeoJSONLayer({
+        url: "geojson/window/data_window_small.geojson"
       })
       const geojsonFloorOutline1 = new GeoJSONLayer({
         url: "geojson/window/data_floor_outline1.geojson"
@@ -213,6 +228,32 @@
       };
 
 
+      geojsonHorizontalLine.renderer = {
+                    type: "simple",
+                    symbol: {
+                        type: "line-3d", // autocasts as new PolygonSymbol3D()
+                        symbolLayers: [
+                            {
+                                type: "path",
+                                size: 0.25,
+                                material: { color: "white" },
+                            },
+                        ],
+                    },
+                };      
+      geojsonWindowLine.renderer = {
+                    type: "simple",
+                    symbol: {
+                        type: "line-3d", // autocasts as new PolygonSymbol3D()
+                        symbolLayers: [
+                            {
+                                type: "path",
+                                size: 0.25,
+                                material: { color: "white" },
+                            },
+                        ],
+                    },
+                };                
       geojsonWindow.renderer = {
         type: "simple",
         symbol: {
@@ -225,6 +266,46 @@
               profile: "quad",  // autocasts as new FillSymbol3DLayer()
               width: 0.15,
               height: 7,
+              material: {
+                color: '#2d4257'
+              }
+            }
+          ]
+        }
+      }
+
+      geojsonDoor_Roof.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              anchor: "bottom",
+              profile: "quad",  // autocasts as new FillSymbol3DLayer()
+              width: 0.15,
+              height: 7,
+              material: {
+                color: '#2d4257'
+              }
+            }
+          ]
+        }
+      }
+
+      geojsonWindowSmall.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              anchor: "bottom",
+              profile: "quad",  // autocasts as new FillSymbol3DLayer()
+              width: 0.2,
+              height: 1.5,
               material: {
                 color: '#2d4257'
               }
@@ -566,7 +647,11 @@
           geojsonFloorOutline1,
           geojsonFloorOutline2,
           geojsonWindowRoom01,
-          geojsonWindow
+          geojsonWindow,
+          geojsonHorizontalLine,
+          geojsonWindowLine,
+          geojsonDoor_Roof,
+          geojsonWindowSmall
         ] //end layers
       });
 

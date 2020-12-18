@@ -1,0 +1,419 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-08-27T10:45:03Z",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80403377860785,10.869833759068813, 42],
+                    [106.80404081940651,10.869833759068813, 42]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80404383689165,10.869833759068813, 42],
+                    [106.80405054241419,10.869833759068813, 42]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.3 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80405389517546,10.869833759068813, 42],
+                    [106.804060600698,10.869833759068813, 42]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 42],
+                    [106.80359490215778,10.869927927599285, 42]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 42],
+                    [106.80358316749334,10.86993154946524, 42]
+                ]
+            }
+        },
+
+
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80403377860785,10.869833759068813, 52],
+                    [106.80404081940651,10.869833759068813, 52]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80404383689165,10.869833759068813, 52],
+                    [106.80405054241419,10.869833759068813, 52]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.3 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80405389517546,10.869833759068813, 52],
+                    [106.804060600698,10.869833759068813, 52]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 52],
+                    [106.80359490215778,10.869927927599285, 52]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 52],
+                    [106.80358316749334,10.86993154946524, 52]
+                ]
+            }
+        },
+
+
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80403377860785,10.869833759068813, 62],
+                    [106.80404081940651,10.869833759068813, 62]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80404383689165,10.869833759068813, 62],
+                    [106.80405054241419,10.869833759068813, 62]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.3 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80405389517546,10.869833759068813, 62],
+                    [106.804060600698,10.869833759068813, 62]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 62],
+                    [106.80359490215778,10.869927927599285, 62]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 62],
+                    [106.80358316749334,10.86993154946524, 62]
+                ]
+            }
+        },
+
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80403377860785,10.869833759068813, 72],
+                    [106.80404081940651,10.869833759068813, 72]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80404383689165,10.869833759068813, 72],
+                    [106.80405054241419,10.869833759068813, 72]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 6.3 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80405389517546,10.869833759068813, 72],
+                    [106.804060600698,10.869833759068813, 72]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 72],
+                    [106.80359490215778,10.869927927599285, 72]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 72],
+                    [106.80358316749334,10.86993154946524, 72]
+                ]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 82],
+                    [106.80359490215778,10.869927927599285, 82]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 82],
+                    [106.80358316749334,10.86993154946524, 82]
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 92],
+                    [106.80359490215778,10.869927927599285, 92]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 92],
+                    [106.80358316749334,10.86993154946524, 92]
+                ]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 102],
+                    [106.80359490215778,10.869927927599285, 102]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 102],
+                    [106.80358316749334,10.86993154946524, 102]
+                ]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 112],
+                    [106.80359490215778,10.869927927599285, 112]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 112],
+                    [106.80358316749334,10.86993154946524, 112]
+                ]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.1 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.8036026135087,10.869925622775463, 122],
+                    [106.80359490215778,10.869927927599285, 122]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Block B - EDGE - Block 1.2 SMALL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [106.80359054356812,10.869929244641456, 122],
+                    [106.80358316749334,10.86993154946524, 122]
+                ]
+            }
+        }
+
+    ]
+}
