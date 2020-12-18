@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd7311a948a332a84da45d5",
+        "name": "Thang máy",
+        "graphic:type": "elevator",
+        "floor:max": 5,
+        "graphic:height": 61
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80396907031536, 10.869977645937295, 27],
+            [106.80398985743523, 10.869995755263654, 27],
+            [106.80395431816578, 10.870028352048328, 27],
+            [106.80393830626085, 10.870007597266962, 27],
+            [106.80396907031536, 10.869977645937295, 27]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd7311a948a332a84da45d6",
+        "name": "Thang máy",
+        "graphic:type": "elevator",
+        "floor:max": 7,
+        "graphic:height": 81
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80385046391606, 10.870054352247061, 27],
+            [106.80386144667864, 10.870080704452619, 27],
+            [106.80381149053574, 10.870079058150734, 27],
+            [106.80380713194609, 10.870050083236126, 27],
+            [106.80385046391606, 10.870054352247061, 27]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd7311a948a332a84da45d7",
+        "name": "Thang máy",
+        "graphic:type": "elevator",
+        "floor:max": 9,
+        "graphic:height": 100.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80367356500393, 10.87000524791287, 27],
+            [106.80365327491182, 10.870022672004255, 27],
+            [106.80362574756144, 10.869983243365555, 27],
+            [106.80365055799484, 10.869968755903944, 27],
+            [106.80367356500393, 10.87000524791287, 27]
+          ]
+        ]
+      }
+    }
+  ]
+}

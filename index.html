@@ -30,36 +30,60 @@
     ], function (Map, SceneView, GeoJSONLayer, SceneLayer) {
 
       const geojsonRoom = new GeoJSONLayer({
-        url: "http://localhost:3000/room",
+        url: "geojson/room.geojson",
       })
 
       const geojsonFloor = new GeoJSONLayer({
-        url: "http://localhost:3000/floor",
+        url: "geojson/floor.geojson",
       })
 
+      const geojsonStair = new GeoJSONLayer({
+        url: "geojson/stair.geojson",
+      })
+
+      const geojsonElevator = new GeoJSONLayer({
+        url: "geojson/elevator.geojson",
+      })
+
+      const geojsonFrontStair = new GeoJSONLayer({
+        url: "geojson/dataStair1.geojson",
+      })
+      const geojsonFrontStair2 = new GeoJSONLayer({
+        url: "geojson/dataStair2.geojson",
+      })
+      const geojsonFrontStair3 = new GeoJSONLayer({
+        url: "geojson/dataStair3.geojson",
+      })
+      const geojsonFrontStair4 = new GeoJSONLayer({
+        url: "geojson/dataStair.geojson",
+      })
+      const geojsonWallDecor = new GeoJSONLayer({
+        url: "geojson/dataWall.geojson"
+      })
+      const geojsonWindowWC = new GeoJSONLayer({
+        url: "geojson/dataWindowRestRoom.geojson"
+      })
+      const geojsonWindowStair1 = new GeoJSONLayer({
+        url: "geojson/dataWindowStair.geojson"
+      })
+      const geojsonWindowOutline1 = new GeoJSONLayer({
+        url: "geojson/dataWindowStairLine.geojson"
+      })
+      const geojsonWindowInnerLine1 = new GeoJSONLayer({
+        url: "geojson/dataWindowStairInnerLine.geojson"
+      })
+      const geojsonWindowRoom01 = new GeoJSONLayer({
+        url: "geojson/dataWindowRoom01.geojson"
+      })
       const geojsonWindow = new GeoJSONLayer({
-        url: "geojson/front/dataWindowStair.geojson",
+        url: "geojson/data_window.geojson"
       })
-
-
-      geojsonWindow.renderer = {
-        type: "simple",
-        symbol: {
-          type: "line-3d",
-
-          symbolLayers: [
-            {
-              type: "path",
-              profile: "quad",  // autocasts as new FillSymbol3DLayer()
-              width: 0,
-              height: 8,
-              material: {
-                color: 'red'
-              }
-            }
-          ]
-        }
-      }
+      const geojsonFloorOutline1 = new GeoJSONLayer({
+        url: "geojson/window/data_floor_outline1.geojson"
+      })
+      const geojsonFloorOutline2 = new GeoJSONLayer({
+        url: "geojson/window/data_floor_outline2.geojson"
+      })
 
       geojsonFloor.renderer = {
         type: "simple",
@@ -69,11 +93,7 @@
             {
               type: "extrude",
               material: {
-                color: '#97cee6'
-              },
-              edges: {
-                type: "solid", // autocasts as new SolidEdges3D()
-                color: [50, 50, 50, 0.5]
+                color: '#5f9cd1'
               }
             }
           ],
@@ -101,23 +121,453 @@
           symbolLayers: [
             {
               type: "extrude",
-              size: 9,
               material: {
-                color: '#97cee6'
+                color: '#5f9cd1'
+              }
+            }
+          ]
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "floor",
+            stops: [
+              {
+                value: 'G',
+                size: 9.5
               },
-              edges: {
-                type: "solid", // autocasts as new SolidEdges3D()
-                color: [50, 50, 50, 0.5]
+              {
+                value: 1,
+                size: 9
+              },
+              {
+                value: 2,
+                size: 9
+              },
+              {
+                value: 3,
+                size: 9
+              },
+              {
+                value: 4,
+                size: 9
+              },
+              {
+                value: 5,
+                size: 9
+              },
+              {
+                value: 6,
+                size: 9
+              },
+              {
+                value: 7,
+                size: 9
+              },
+              {
+                value: 8,
+                size: 9
+              },
+              {
+                value: 9,
+                size: 9
+              }
+            ]
+          }
+        ]
+      }
+      
+      geojsonFloorOutline1.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              width: 0.1,
+              height: 3,
+              material: {
+                color: '#1a4f81'
+              }
+            }
+          ]
+        }
+      };
+      geojsonFloorOutline2.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              width: 0.1,
+              height: 2,
+              material: {
+                color: '#1a4f81'
+              }
+            }
+          ]
+        }
+      };
+
+
+      geojsonWindow.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              anchor: "bottom",
+              profile: "quad",  // autocasts as new FillSymbol3DLayer()
+              width: 0.15,
+              height: 7,
+              material: {
+                color: '#2d4257'
               }
             }
           ]
         }
       }
 
+      geojsonWallDecor.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d",
+
+          symbolLayers: [
+            {
+              type: "path",
+              profile: "quad",  // autocasts as new FillSymbol3DLayer()
+              anchor: "bottom",
+              width: 0,
+              height: 9.5,
+              material: {
+                color: '#5f9cd1'
+              }
+            }
+          ],
+        }
+      }
+
+      geojsonStair.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#5f9cd1'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: 51,
+                size: 51
+              }, {
+                value: 71,
+                size: 71
+              }, {
+                value: 81,
+                size: 81
+              }, {
+                value: 100.5,
+                size: 100.5
+              }
+            ]
+          }
+        ]
+      }
+      geojsonElevator.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#5f9cd1'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: 51,
+                size: 51
+              }, {
+                value: 71,
+                size: 71
+              }, {
+                value: 81,
+                size: 81
+              }, {
+                value: 100.5,
+                size: 100.5
+              }
+            ]
+          }
+        ]
+      }
+
+      
+      geojsonFrontStair.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#404339'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: '3/7',
+                size: 3 / 7
+              }, {
+                value: '7/15',
+                size: 7 / 15
+              }
+            ]
+          }
+        ]
+      }
+      geojsonFrontStair4.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#c5ba9a'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: '3/7',
+                size: 3 / 7
+              }, {
+                value: '7/15',
+                size: 7 / 15
+              }
+            ]
+          }
+        ]
+      }
+      geojsonFrontStair2.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#404339'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: '3/7',
+                size: 3 / 7
+              }, {
+                value: '7/15',
+                size: 7 / 15
+              }
+            ]
+          }
+        ]
+      }
+      geojsonFrontStair3.renderer = {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [
+            {
+              type: "extrude",
+              material: {
+                color: '#404339'
+              },
+              // edges: {
+              //   type: "solid", // autocasts as new SolidEdges3D()
+              //   color: [50, 50, 50, 0.5]
+              // }
+            }
+          ],
+        },
+        visualVariables: [
+          {
+            type: "size",
+            field: "graphic:height",
+            stops: [
+              {
+                value: '3/7',
+                size: 3 / 7
+              }, {
+                value: '7/15',
+                size: 7 / 15
+              }
+            ]
+          }
+        ]
+      }
+
+      geojsonWindowWC.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "path",
+              profile: "quad", // autocasts as new FillSymbol3DLayer()
+              width: 0,
+              height: 0.5,
+              anchor: "bottom",
+              material: { color: "#395060" },
+            },
+          ],
+        },
+      }
+
+      geojsonWindowStair1.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "path",
+              profile: "quad", // autocasts as new FillSymbol3DLayer()
+              width: 0,
+              height: 10,
+              anchor: "bottom",
+              material: { color: "#228179" },
+            },
+          ],
+        }
+      };
+
+      geojsonWindowRoom01.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "path",
+              profile: "quad", // autocasts as new FillSymbol3DLayer()
+              width: 0,
+              height: 3,
+              anchor: "bottom",
+              material: { color: "#228179" },
+            },
+          ],
+        }
+      };
+
+      geojsonWindowInnerLine1.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "line",
+              size: 2,
+              material: { color: "white" },
+            },
+          ],
+        },
+      };
+
+      geojsonWindowOutline1.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "line",
+              size: 1,
+              material: { color: "#FFFFFF" },
+            },
+          ],
+        },
+      };
+
       const map = new Map({
         basemap: "topo-vector",
         ground: "world-elevation",
-        layers: [geojsonFloor, geojsonRoom] //end layers
+        layers: [
+          geojsonFloor,
+          geojsonRoom,
+          geojsonStair,
+          geojsonElevator,
+          geojsonFrontStair,
+          geojsonFrontStair4,
+          geojsonFrontStair2,
+          geojsonFrontStair3,
+
+          geojsonWallDecor,
+          geojsonWindowWC,
+          geojsonWindowOutline1,
+          geojsonWindowInnerLine1,
+          geojsonWindowStair1,
+          geojsonFloorOutline1,
+          geojsonFloorOutline2,
+          geojsonWindowRoom01,
+          geojsonWindow
+        ] //end layers
       });
 
       const view = new SceneView({
@@ -130,9 +580,9 @@
         }
       });
 
-      /* view.on('click', (event) => {
+      view.on('click', (event) => {
         console.log(`${event.mapPoint.longitude}, ${event.mapPoint.latitude}`)
-      }) */
+      })
 
       view.popup.defaultPopupTemplateEnabled = true;
     });

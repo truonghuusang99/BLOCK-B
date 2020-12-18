@@ -7,19 +7,19 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 0,
+        "_id": "5fd48a74291fc80cf89ec013",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor G",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor G",
-        "name:vi": "Tòa B -106.8040241960683 G",
-        "office": "B - Floor G",
+        "name:vi": "Tòa B - Tầng G",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 0.5
+        "graphic:height": 0.5,
+        "graphic:type": "floor"
       },
       "geometry": {
         "type": "Polygon",
@@ -64,19 +64,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 1,
+        "_id": "5fd48a74291fc80cf89ec014",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 1",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 1",
-        "name:vi": "Tòa B -106.8040241960683 1",
-        "office": "B - Floor 1",
+        "name:vi": "Tòa B - Tầng 1",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -121,19 +122,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 2,
+        "_id": "5fd48a74291fc80cf89ec015",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 2",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 2",
-        "name:vi": "Tòa B -106.8040241960683 2",
-        "office": "B - Floor 2",
+        "name:vi": "Tòa B - Tầng 2",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -178,19 +180,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 3,
+        "_id": "5fd48a74291fc80cf89ec016",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 3",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 3",
-        "name:vi": "Tòa B -106.8040241960683 3",
-        "office": "B - Floor 3",
+        "name:vi": "Tòa B - Tầng 3",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -235,19 +238,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 4,
+        "_id": "5fd48a74291fc80cf89ec017",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 4",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 4",
-        "name:vi": "Tòa B -106.8040241960683 4",
-        "office": "B - Floor 4",
+        "name:vi": "Tòa B - Tầng 4",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -292,19 +296,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 5,
+        "_id": "5fd48a74291fc80cf89ec018",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 5",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 5",
-        "name:vi": "Tòa B -106.8040241960683 5",
-        "office": "B - Floor 5",
+        "name:vi": "Tòa B - Tầng 5",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -349,19 +354,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 6,
+        "_id": "5fd48a74291fc80cf89ec019",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 6",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 6",
-        "name:vi": "Tòa B -106.8040241960683 6",
-        "office": "B - Floor 6",
+        "name:vi": "Tòa B - Tầng 6",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -401,19 +407,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 7,
+        "_id": "5fd48a74291fc80cf89ec01a",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 7",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 7",
-        "name:vi": "Tòa B -106.8040241960683 7",
-        "office": "B - Floor 7",
+        "name:vi": "Tòa B - Tầng 7",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -447,19 +454,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 8,
+        "_id": "5fd48a74291fc80cf89ec01b",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 8",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 8",
-        "name:vi": "Tòa B -106.8040241960683 8",
-        "office": "B - Floor 8",
+        "name:vi": "Tòa B - Tầng 8",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -488,19 +496,20 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": 9,
+        "_id": "5fd48a74291fc80cf89ec01c",
         "addr:city": "Ho Chi Minh City",
         "addr:district": "Thủ Đức",
         "addr:street": "Hàn Thuyên",
         "addr:subdistrict": "Phường Linh Trung",
         "building": "B - Floor 9",
-        "building:levels": 11,
-        "height": 10,
+        "building:levels": 9,
+        "height": "3.5m",
         "name": "Block B - Floor 9",
-        "name:vi": "Tòa B -106.8040241960683 9",
-        "office": "B - Floor 9",
+        "name:vi": "Tòa B - Tầng 9",
         "website": "https://www.uit.edu.vn",
-        "graphic:height": 1
+        "graphic:height": 1,
+        "graphic:type": "floor",
+        "floor": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -524,6 +533,21 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "_id": "5fd48a74291fc80cf89ec01d",
+        "addr:city": "Ho Chi Minh City",
+        "addr:district": "Thủ Đức",
+        "addr:street": "Hàn Thuyên",
+        "addr:subdistrict": "Phường Linh Trung",
+        "building": "B - Roof",
+        "building:levels": 9,
+        "height": 0,
+        "name": "Block B - Roof",
+        "name:vi": "Tòa B - Mái nhà",
+        "website": "https://www.uit.edu.vn",
+        "graphic:height": 1,
+        "graphic:type": "floor"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

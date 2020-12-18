@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd71c89f771292a301a42ef",
+        "name": "Thang bộ",
+        "graphic:type": "stair",
+        "floor:max": 4,
+        "graphic:height": 51
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80402404697136, 10.869856947268902, 27],
+            [106.80405845398812, 10.869862226913886, 27],
+            [106.80405188351868, 10.869883806683111, 27],
+            [106.80402212529157, 10.869877210099714, 27],
+            [106.80402404697136, 10.869856947268902, 27]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd71c89f771292a301a42f0",
+        "name": "Thang bộ",
+        "graphic:type": "stair",
+        "floor:max": 6,
+        "graphic:height": 71
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80393830626085, 10.870007597266962, 27],
+            [106.80395431816578, 10.870028352048328, 27],
+            [106.80393118411301, 10.870046790632017, 27],
+            [106.80392020135069, 10.870023401768139, 27],
+            [106.80393830626085, 10.870007597266962, 27]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd71c89f771292a301a42f1",
+        "name": "Thang bộ",
+        "graphic:type": "stair",
+        "floor:max": 7,
+        "graphic:height": 81
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80380713194609, 10.870050083236126, 27],
+            [106.80381149053574, 10.870079058150734, 27],
+            [106.80377058684826, 10.870078070369596, 27],
+            [106.80377092212439, 10.870046132111185, 27],
+            [106.80380713194609, 10.870050083236126, 27]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": "5fd71c89f771292a301a42f2",
+        "name": "Thang bộ",
+        "graphic:type": "stair",
+        "floor:max": 9,
+        "graphic:height": 100.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.80365055799484, 10.869968755903944, 27],
+            [106.80362574756144, 10.869983243365555, 27],
+            [106.80360663682222, 10.869955914744216, 27],
+            [106.80363446474074, 10.869943073583928, 27],
+            [106.80365055799484, 10.869968755903944, 27]
+          ]
+        ]
+      }
+    }
+  ]
+}
