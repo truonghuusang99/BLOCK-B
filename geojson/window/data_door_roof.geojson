@@ -1,73 +1,41 @@
 {
-    "type": "FeatureCollection",
-    "generator": "overpass-ide",
-    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-    "timestamp": "2020-08-27T10:45:03Z",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Block B - ROOF - Block 5_6"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [106.80404853075743,10.869949988054922, 78],
-                    [106.80405959486961,10.86995492696267, 78]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Block B - ROOF - Block 4_5"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [106.80396538227797,10.87004382728828, 88],
-                    [106.80397409945726,10.870054692881823,88]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Block B - ROOF - Block 3_4"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [106.80386446416378,10.870094204127708, 98],
-                    [106.80386546999216,10.87010836232288, 98]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Block B - ROOF - Block 2_3"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [106.80373471230268,10.870099801553781, 108],
-                    [106.80373068898916,10.870113630488351, 108]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Block B - ROOF - Block 1_2"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [106.80363412946463,10.870040863944517, 118],
-                    [106.80362340062857,10.870051729538162, 118]
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block B - ROOF - DOOR",
+        "graphic:height": 7,
+        "graphic:type": "door"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [106.80404853075743, 10.869949988054922, 78],
+            [106.80405959486961, 10.86995492696267, 78]
+          ],
+          [
+            [106.80396538227797, 10.87004382728828, 88],
+            [106.80397409945726, 10.870054692881823, 88]
+          ],
+          [
+            [106.80386446416378, 10.870094204127708, 98],
+            [106.80386546999216, 10.87010836232288, 98]
+          ],
+          [
+            [106.80373471230268, 10.870099801553781, 108],
+            [106.80373068898916, 10.870113630488351, 108]
+          ],
+          [
+            [106.80363412946463, 10.870040863944517, 118],
+            [106.80362340062857, 10.870051729538162, 118]
+          ]
+        ]
+      }
+    }
+  ]
 }

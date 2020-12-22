@@ -7,6 +7,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "wall-line",
+        "graphic:height": 3
       },
       "geometry": {
         "type": "MultiLineString",
