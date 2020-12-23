@@ -71,33 +71,31 @@
         url: "http://localhost:3000/door-roof"
       })
 
-      const geojsonWindowStair1 = new GeoJSONLayer({
-        url: "geojson/dataWindowStair.geojson"
+      const geojsonDoorLine = new GeoJSONLayer({
+        url: "http://localhost:3000/door-roof-line"
       })
-      const geojsonWindowOutline1 = new GeoJSONLayer({
-        url: "geojson/dataWindowStairLine.geojson"
+
+      const geojsonWindowStair = new GeoJSONLayer({
+        url: "http://localhost:3000/window-stair"
       })
-      const geojsonWindowInnerLine1 = new GeoJSONLayer({
-        url: "geojson/dataWindowStairInnerLine.geojson"
+      const geojsonWindowStairLine = new GeoJSONLayer({
+        url: "http://localhost:3000/window-stair-line"
       })
+
       const geojsonWindowRoom01 = new GeoJSONLayer({
-        url: "geojson/dataWindowRoom01.geojson"
+        url: "http://localhost:3000/window-room01"
       })
-      // const geojsonWindow = new GeoJSONLayer({
-      //   url: "geojson/data_window.geojson"
-      // })
+
       const geojsonWindow = new GeoJSONLayer({
-        url: "geojson/window/data_window.geojson"
+        url: "http://localhost:3000/window-room"
       })
-      const geojsonHorizontalLine = new GeoJSONLayer({
-        url: "geojson/window/data_windowHorizontalLine.geojson"
-      })
+
       const geojsonWindowLine = new GeoJSONLayer({
-        url: "geojson/window/dataWindowLine.geojson"
+        url: "http://localhost:3000/window-line"
       })
 
       const geojsonWindowSmall = new GeoJSONLayer({
-        url: "geojson/window/data_window_small.geojson"
+        url: "http://localhost:3000/window-sub-wc"
       })
 
 
@@ -387,7 +385,19 @@
           ]
         }
       }
-
+      geojsonDoorLine.renderer = {
+        type: "simple",
+        symbol: {
+          type: "line-3d", // autocasts as new PolygonSymbol3D()
+          symbolLayers: [
+            {
+              type: "path",
+              size: 0.25,
+              material: { color: "white" },
+            },
+          ],
+        },
+      };
 
       geojsonWallLine.renderer = {
         type: "simple",
@@ -425,19 +435,6 @@
       };
 
 
-      geojsonHorizontalLine.renderer = {
-        type: "simple",
-        symbol: {
-          type: "line-3d", // autocasts as new PolygonSymbol3D()
-          symbolLayers: [
-            {
-              type: "path",
-              size: 0.25,
-              material: { color: "white" },
-            },
-          ],
-        },
-      };
       geojsonWindowLine.renderer = {
         type: "simple",
         symbol: {
@@ -491,27 +488,6 @@
         }
       }
 
-
-
-
-
-      geojsonWindowStair1.renderer = {
-        type: "simple",
-        symbol: {
-          type: "line-3d", // autocasts as new PolygonSymbol3D()
-          symbolLayers: [
-            {
-              type: "path",
-              profile: "quad", // autocasts as new FillSymbol3DLayer()
-              width: 0,
-              height: 10,
-              anchor: "bottom",
-              material: { color: "#228179" },
-            },
-          ],
-        }
-      };
-
       geojsonWindowRoom01.renderer = {
         type: "simple",
         symbol: {
@@ -528,29 +504,30 @@
           ],
         }
       };
-
-      geojsonWindowInnerLine1.renderer = {
+      geojsonWindowStair.renderer = {
         type: "simple",
         symbol: {
           type: "line-3d", // autocasts as new PolygonSymbol3D()
           symbolLayers: [
             {
-              type: "line",
-              size: 2,
-              material: { color: "white" },
+              type: "path",
+              profile: "quad", // autocasts as new FillSymbol3DLayer()
+              width: 0,
+              height: 10,
+              anchor: "bottom",
+              material: { color: "#228179" },
             },
           ],
-        },
+        }
       };
-
-      geojsonWindowOutline1.renderer = {
+      geojsonWindowStairLine.renderer = {
         type: "simple",
         symbol: {
           type: "line-3d", // autocasts as new PolygonSymbol3D()
           symbolLayers: [
             {
-              type: "line",
-              size: 1,
+              type: "path",
+              size: 0.25,
               material: { color: "#FFFFFF" },
             },
           ],
@@ -572,13 +549,11 @@
           geojsonWallLine,
           geojsonWindowWC,
           geojsonDoor_Roof,
-
-          geojsonWindowOutline1,
-          geojsonWindowInnerLine1,
-          geojsonWindowStair1,
+          geojsonDoorLine,
+          geojsonWindowStair,
+          geojsonWindowStairLine,
           geojsonWindowRoom01,
           geojsonWindow,
-          geojsonHorizontalLine,
           geojsonWindowLine,
           geojsonWindowSmall
         ] //end layers

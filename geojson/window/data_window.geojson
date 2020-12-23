@@ -7,6 +7,26 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
+        "name": "Block B - Block 1.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.80344168096781, 10.86998752375181, 29],
+          [106.80344738066196, 10.869996413784587, 29],
+          [106.80345173925161, 10.870003328254347, 29],
+          [106.80345710366963, 10.870011230505296, 29],
+          [106.80346179753542, 10.870019132756044, 29]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -23,6 +43,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -39,6 +61,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -55,6 +79,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -71,6 +97,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -84,6 +112,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -97,6 +127,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -110,6 +142,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -123,6 +157,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -136,6 +172,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -149,6 +187,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -162,6 +202,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -175,6 +217,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -188,6 +232,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -201,6 +247,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -214,6 +262,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -227,6 +277,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.1"
       },
       "geometry": {
@@ -240,6 +292,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.2"
       },
       "geometry": {
@@ -253,6 +307,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.3"
       },
       "geometry": {
@@ -266,6 +322,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.4"
       },
       "geometry": {
@@ -279,6 +337,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.1"
       },
       "geometry": {
@@ -292,6 +352,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.2"
       },
       "geometry": {
@@ -305,6 +367,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.3"
       },
       "geometry": {
@@ -318,6 +382,23 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
+        "name": "Block B - Block 6.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.80417023599148, 10.869871953301532, 29],
+          [106.804174259305, 10.869844624670002, 29]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.4"
       },
       "geometry": {
@@ -331,6 +412,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 6"
       },
       "geometry": {
@@ -344,6 +427,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -358,6 +443,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -374,6 +461,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -390,6 +479,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -406,6 +497,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -422,6 +515,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -435,6 +530,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -448,6 +545,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -461,6 +560,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -474,6 +575,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -487,6 +590,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -500,6 +605,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -513,6 +620,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -526,6 +635,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -539,6 +650,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -552,6 +665,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -565,6 +680,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -578,6 +695,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.1"
       },
       "geometry": {
@@ -591,6 +710,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.2"
       },
       "geometry": {
@@ -604,6 +725,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.3"
       },
       "geometry": {
@@ -617,6 +740,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.4"
       },
       "geometry": {
@@ -630,6 +755,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.1"
       },
       "geometry": {
@@ -643,6 +770,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.2"
       },
       "geometry": {
@@ -656,6 +785,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.3"
       },
       "geometry": {
@@ -669,6 +800,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.4"
       },
       "geometry": {
@@ -682,6 +815,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 6"
       },
       "geometry": {
@@ -695,6 +830,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -709,6 +846,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -725,6 +864,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -741,6 +882,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -757,6 +900,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -773,6 +918,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -786,6 +933,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -799,6 +948,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -812,6 +963,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -825,6 +978,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -838,6 +993,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -851,6 +1008,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -864,6 +1023,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -877,6 +1038,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -890,6 +1053,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -903,6 +1068,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -916,6 +1083,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -929,6 +1098,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.1"
       },
       "geometry": {
@@ -942,6 +1113,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.2"
       },
       "geometry": {
@@ -955,6 +1128,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.3"
       },
       "geometry": {
@@ -968,6 +1143,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.4"
       },
       "geometry": {
@@ -981,6 +1158,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.1"
       },
       "geometry": {
@@ -994,6 +1173,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.2"
       },
       "geometry": {
@@ -1007,6 +1188,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.3"
       },
       "geometry": {
@@ -1020,6 +1203,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.4"
       },
       "geometry": {
@@ -1033,6 +1218,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 6"
       },
       "geometry": {
@@ -1046,6 +1233,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -1060,6 +1249,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1076,6 +1267,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1092,6 +1285,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1108,6 +1303,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1124,6 +1321,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1137,6 +1336,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1150,6 +1351,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1163,6 +1366,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1176,6 +1381,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -1189,6 +1396,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -1202,6 +1411,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -1215,6 +1426,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -1228,6 +1441,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -1241,6 +1456,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -1254,6 +1471,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -1267,6 +1486,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -1280,6 +1501,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.1"
       },
       "geometry": {
@@ -1293,6 +1516,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.2"
       },
       "geometry": {
@@ -1306,6 +1531,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.3"
       },
       "geometry": {
@@ -1319,6 +1546,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.4"
       },
       "geometry": {
@@ -1332,6 +1561,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.1"
       },
       "geometry": {
@@ -1345,6 +1576,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.2"
       },
       "geometry": {
@@ -1358,6 +1591,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.3"
       },
       "geometry": {
@@ -1371,6 +1606,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 6.4"
       },
       "geometry": {
@@ -1384,6 +1621,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 6"
       },
       "geometry": {
@@ -1397,6 +1636,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -1411,6 +1652,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1427,6 +1670,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1443,6 +1688,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1459,6 +1706,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1475,6 +1724,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1488,6 +1739,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1501,6 +1754,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1514,6 +1769,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1527,6 +1784,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -1540,6 +1799,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -1553,6 +1814,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -1566,6 +1829,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -1579,6 +1844,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -1592,6 +1859,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -1605,6 +1874,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -1618,6 +1889,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -1631,6 +1904,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.1"
       },
       "geometry": {
@@ -1644,6 +1919,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.2"
       },
       "geometry": {
@@ -1657,6 +1934,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.3"
       },
       "geometry": {
@@ -1670,6 +1949,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 5.4"
       },
       "geometry": {
@@ -1683,6 +1964,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -1697,6 +1980,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1713,6 +1998,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1729,6 +2016,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1745,6 +2034,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1761,6 +2052,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1774,6 +2067,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1787,6 +2082,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1800,6 +2097,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1813,6 +2112,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -1826,6 +2127,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -1839,6 +2142,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -1852,6 +2157,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -1865,6 +2172,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.1"
       },
       "geometry": {
@@ -1878,6 +2187,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.2"
       },
       "geometry": {
@@ -1891,6 +2202,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.3"
       },
       "geometry": {
@@ -1904,6 +2217,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 4.4"
       },
       "geometry": {
@@ -1917,6 +2232,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -1931,6 +2248,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -1947,6 +2266,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -1963,6 +2284,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -1979,6 +2302,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -1995,6 +2320,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -2008,6 +2335,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -2021,6 +2350,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -2034,6 +2365,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -2047,6 +2380,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.1"
       },
       "geometry": {
@@ -2060,6 +2395,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.2"
       },
       "geometry": {
@@ -2073,6 +2410,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.3"
       },
       "geometry": {
@@ -2086,6 +2425,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 3.4"
       },
       "geometry": {
@@ -2099,6 +2440,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -2113,6 +2456,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -2129,6 +2474,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -2145,6 +2492,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -2161,6 +2510,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -2177,6 +2528,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -2190,6 +2543,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -2203,6 +2558,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -2216,6 +2573,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -2229,6 +2588,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
@@ -2243,6 +2604,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.1"
       },
       "geometry": {
@@ -2259,6 +2622,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.2"
       },
       "geometry": {
@@ -2275,6 +2640,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.3"
       },
       "geometry": {
@@ -2291,6 +2658,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - Block 2.4"
       },
       "geometry": {
@@ -2307,6 +2676,8 @@
     {
       "type": "Feature",
       "properties": {
+        "graphic:type": "window",
+        "graphic:height": 7,
         "name": "Block B - EDGE - Block 1"
       },
       "geometry": {
