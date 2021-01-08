@@ -1,11 +1,15 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:23:50.006Z",
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "_id": "5fe1f61db218b730e0abf2c3",
+        "graphic:type": "window-stair-line"
+      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -189,8 +193,6 @@
             [106.80364284664392, 10.869955914744216, 115],
             [106.80364284664392, 10.869955914744216, 125]
           ],
-
-
           [
             [106.8036475405097, 10.869963487735928, 35],
             [106.8036388233304, 10.869949658794399, 35]
@@ -378,9 +380,12 @@
         ]
       }
     },
-
     {
       "type": "Feature",
+      "properties": {
+        "_id": "5fe1f64ab1f46b25f43ebd3c",
+        "graphic:type": "window-stair-line"
+      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -544,9 +549,6 @@
             [106.80378835648298, 10.870047449152837, 95],
             [106.80378835648298, 10.870047449152837, 105]
           ],
-
-
-
           [
             [106.8037947267294, 10.870048107673668, 35],
             [106.80378098040819, 10.870046790632017, 35]
@@ -694,9 +696,12 @@
         ]
       }
     },
-
     {
       "type": "Feature",
+      "properties": {
+        "_id": "5fe1f6687d05784298f22151",
+        "graphic:type": "window-stair-line"
+      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -820,8 +825,6 @@
             [106.80392850190401, 10.870015840151604, 85],
             [106.80392850190401, 10.870015840151604, 95]
           ],
-
-
           [
             [106.80392313748598, 10.870020449797822, 35],
             [106.80393386632204, 10.870011230505296, 35]
@@ -949,9 +952,12 @@
         ]
       }
     },
-
     {
       "type": "Feature",
+      "properties": {
+        "_id": "5fe1f68f7229e9570066fb6b",
+        "graphic:type": "window-stair-line"
+      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -1035,10 +1041,6 @@
             [106.8040220439434, 10.869867672913625, 65],
             [106.8040220439434, 10.869867672913625, 75]
           ],
-
-
-
-
           [
             [106.8040220439434, 10.869872941083347, 35],
             [106.80402304977177, 10.869862075483201, 35]

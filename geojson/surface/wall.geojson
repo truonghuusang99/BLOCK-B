@@ -1,14 +1,15 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:14:43.967Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "graphic:height": "9.5",
-        "graphic:type": "wall"
+        "_id": "5fe1732f3d98842284ef2f22",
+        "graphic:type": "wall",
+        "graphic:height": "9.5"
       },
       "geometry": {
         "type": "MultiLineString",

@@ -1,17 +1,17 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:07:06.086Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "_id": "5fd7311a948a332a84da45d5",
         "name": "Thang máy",
+        "graphic:height": 61,
         "graphic:type": "elevator",
-        "floor:max": 5,
-        "graphic:height": 61
+        "floor:max": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -31,9 +31,9 @@
       "properties": {
         "_id": "5fd7311a948a332a84da45d6",
         "name": "Thang máy",
+        "graphic:height": 81,
         "graphic:type": "elevator",
-        "floor:max": 7,
-        "graphic:height": 81
+        "floor:max": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -53,9 +53,9 @@
       "properties": {
         "_id": "5fd7311a948a332a84da45d7",
         "name": "Thang máy",
+        "graphic:height": 100.5,
         "graphic:type": "elevator",
-        "floor:max": 9,
-        "graphic:height": 100.5
+        "floor:max": 9
       },
       "geometry": {
         "type": "Polygon",

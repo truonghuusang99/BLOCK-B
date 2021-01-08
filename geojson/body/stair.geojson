@@ -1,17 +1,17 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:06:15.394Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "_id": "5fd71c89f771292a301a42ef",
         "name": "Thang bộ",
+        "graphic:height": 51,
         "graphic:type": "stair",
-        "floor:max": 4,
-        "graphic:height": 51
+        "floor:max": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31,9 +31,9 @@
       "properties": {
         "_id": "5fd71c89f771292a301a42f0",
         "name": "Thang bộ",
+        "graphic:height": 71,
         "graphic:type": "stair",
-        "floor:max": 6,
-        "graphic:height": 71
+        "floor:max": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -53,9 +53,9 @@
       "properties": {
         "_id": "5fd71c89f771292a301a42f1",
         "name": "Thang bộ",
+        "graphic:height": 81,
         "graphic:type": "stair",
-        "floor:max": 7,
-        "graphic:height": 81
+        "floor:max": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -75,9 +75,9 @@
       "properties": {
         "_id": "5fd71c89f771292a301a42f2",
         "name": "Thang bộ",
+        "graphic:height": 100.5,
         "graphic:type": "stair",
-        "floor:max": 9,
-        "graphic:height": 100.5
+        "floor:max": 9
       },
       "geometry": {
         "type": "Polygon",

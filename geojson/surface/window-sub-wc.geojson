@@ -1,13 +1,15 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:28:02.180Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "name": "Block B - EDGE - Block 6.1 SMALL"
+        "_id": "5fe20b525c42d42750f16829",
+        "graphic:type": "window",
+        "graphic:height": 1.5
       },
       "geometry": {
         "type": "MultiLineString",

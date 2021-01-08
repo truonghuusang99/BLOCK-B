@@ -1,15 +1,16 @@
 {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-27T10:45:03Z",
+  "copyright": "Gi Cung Duoc Group",
+  "timestamp": "2021-01-07T14:35:52.752Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
+        "_id": "5fe17fba1a2a9a4c74fad8a7",
+        "graphic:type": "door",
         "name": "Block B - ROOF - DOOR",
-        "graphic:height": 7,
-        "graphic:type": "door"
+        "graphic:height": 7
       },
       "geometry": {
         "type": "MultiLineString",
