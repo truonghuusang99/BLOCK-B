@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd7311a948a332a84da45d5",
         "name": "Thang máy",
         "graphic:height": 61,
         "graphic:type": "elevator",
@@ -29,7 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd7311a948a332a84da45d6",
         "name": "Thang máy",
         "graphic:height": 81,
         "graphic:type": "elevator",
@@ -51,7 +49,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd7311a948a332a84da45d7",
         "name": "Thang máy",
         "graphic:height": 100.5,
         "graphic:type": "elevator",

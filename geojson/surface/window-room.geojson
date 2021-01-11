@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade07",
         "graphic:type": "window",
         "name": "Block B - Block 1.1",
         "graphic:height": 7
@@ -28,7 +27,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade08",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -49,7 +47,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade09",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -70,7 +67,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0a",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -91,7 +87,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0b",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -112,7 +107,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0c",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -130,7 +124,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0d",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -148,7 +141,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0e",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -166,7 +158,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade0f",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -184,7 +175,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade10",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -202,7 +192,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade11",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -220,7 +209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade12",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -238,7 +226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade13",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -256,7 +243,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade14",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -274,7 +260,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade15",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -292,7 +277,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade16",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -310,7 +294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade17",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -328,7 +311,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade18",
         "graphic:type": "window",
         "name": "Block B - Block 5.1",
         "graphic:height": 7
@@ -346,7 +328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade19",
         "graphic:type": "window",
         "name": "Block B - Block 5.2",
         "graphic:height": 7
@@ -364,7 +345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1a",
         "graphic:type": "window",
         "name": "Block B - Block 5.3",
         "graphic:height": 7
@@ -382,7 +362,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1b",
         "graphic:type": "window",
         "name": "Block B - Block 5.4",
         "graphic:height": 7
@@ -400,7 +379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1c",
         "graphic:type": "window",
         "name": "Block B - Block 6.1",
         "graphic:height": 7
@@ -418,7 +396,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1d",
         "graphic:type": "window",
         "name": "Block B - Block 6.2",
         "graphic:height": 7
@@ -436,7 +413,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1e",
         "graphic:type": "window",
         "name": "Block B - Block 6.3",
         "graphic:height": 7
@@ -454,7 +430,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade1f",
         "graphic:type": "window",
         "name": "Block B - Block 6.4",
         "graphic:height": 7
@@ -472,7 +447,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade20",
         "graphic:type": "window",
         "name": "Block B - Block 6.4",
         "graphic:height": 7
@@ -490,7 +464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade21",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 6",
         "graphic:height": 7
@@ -508,7 +481,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade22",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -526,7 +498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade23",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -547,7 +518,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade24",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -568,7 +538,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade25",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -589,7 +558,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade26",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -610,7 +578,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade27",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -628,7 +595,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade28",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -646,7 +612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade29",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -664,7 +629,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2a",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -682,7 +646,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2b",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -700,7 +663,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2c",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -718,7 +680,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2d",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -736,7 +697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2e",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -754,7 +714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade2f",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -772,7 +731,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade30",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -790,7 +748,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade31",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -808,7 +765,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade32",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -826,7 +782,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade33",
         "graphic:type": "window",
         "name": "Block B - Block 5.1",
         "graphic:height": 7
@@ -844,7 +799,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade34",
         "graphic:type": "window",
         "name": "Block B - Block 5.2",
         "graphic:height": 7
@@ -862,7 +816,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade35",
         "graphic:type": "window",
         "name": "Block B - Block 5.3",
         "graphic:height": 7
@@ -880,7 +833,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade36",
         "graphic:type": "window",
         "name": "Block B - Block 5.4",
         "graphic:height": 7
@@ -898,7 +850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade37",
         "graphic:type": "window",
         "name": "Block B - Block 6.1",
         "graphic:height": 7
@@ -916,7 +867,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade38",
         "graphic:type": "window",
         "name": "Block B - Block 6.2",
         "graphic:height": 7
@@ -934,7 +884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade39",
         "graphic:type": "window",
         "name": "Block B - Block 6.3",
         "graphic:height": 7
@@ -952,7 +901,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3a",
         "graphic:type": "window",
         "name": "Block B - Block 6.4",
         "graphic:height": 7
@@ -970,7 +918,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3b",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 6",
         "graphic:height": 7
@@ -988,7 +935,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3c",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -1006,7 +952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3d",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -1027,7 +972,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3e",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -1048,7 +992,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade3f",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -1069,7 +1012,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade40",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -1090,7 +1032,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade41",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -1108,7 +1049,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade42",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -1126,7 +1066,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade43",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -1144,7 +1083,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade44",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -1162,7 +1100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade45",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -1180,7 +1117,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade46",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -1198,7 +1134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade47",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -1216,7 +1151,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade48",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -1234,7 +1168,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade49",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -1252,7 +1185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4a",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -1270,7 +1202,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4b",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -1288,7 +1219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4c",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -1306,7 +1236,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4d",
         "graphic:type": "window",
         "name": "Block B - Block 5.1",
         "graphic:height": 7
@@ -1324,7 +1253,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4e",
         "graphic:type": "window",
         "name": "Block B - Block 5.2",
         "graphic:height": 7
@@ -1342,7 +1270,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade4f",
         "graphic:type": "window",
         "name": "Block B - Block 5.3",
         "graphic:height": 7
@@ -1360,7 +1287,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade50",
         "graphic:type": "window",
         "name": "Block B - Block 5.4",
         "graphic:height": 7
@@ -1378,7 +1304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade51",
         "graphic:type": "window",
         "name": "Block B - Block 6.1",
         "graphic:height": 7
@@ -1396,7 +1321,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade52",
         "graphic:type": "window",
         "name": "Block B - Block 6.2",
         "graphic:height": 7
@@ -1414,7 +1338,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade53",
         "graphic:type": "window",
         "name": "Block B - Block 6.3",
         "graphic:height": 7
@@ -1432,7 +1355,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade54",
         "graphic:type": "window",
         "name": "Block B - Block 6.4",
         "graphic:height": 7
@@ -1450,7 +1372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade55",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 6",
         "graphic:height": 7
@@ -1468,7 +1389,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade56",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -1486,7 +1406,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade57",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -1507,7 +1426,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade58",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -1528,7 +1446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade59",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -1549,7 +1466,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5a",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -1570,7 +1486,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5b",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -1588,7 +1503,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5c",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -1606,7 +1520,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5d",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -1624,7 +1537,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5e",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -1642,7 +1554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade5f",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -1660,7 +1571,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade60",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -1678,7 +1588,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade61",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -1696,7 +1605,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade62",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -1714,7 +1622,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade63",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -1732,7 +1639,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade64",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -1750,7 +1656,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade65",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -1768,7 +1673,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade66",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -1786,7 +1690,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade67",
         "graphic:type": "window",
         "name": "Block B - Block 5.1",
         "graphic:height": 7
@@ -1804,7 +1707,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade68",
         "graphic:type": "window",
         "name": "Block B - Block 5.2",
         "graphic:height": 7
@@ -1822,7 +1724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade69",
         "graphic:type": "window",
         "name": "Block B - Block 5.3",
         "graphic:height": 7
@@ -1840,7 +1741,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6a",
         "graphic:type": "window",
         "name": "Block B - Block 5.4",
         "graphic:height": 7
@@ -1858,7 +1758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6b",
         "graphic:type": "window",
         "name": "Block B - Block 6.1",
         "graphic:height": 7
@@ -1876,7 +1775,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6c",
         "graphic:type": "window",
         "name": "Block B - Block 6.2",
         "graphic:height": 7
@@ -1894,7 +1792,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6d",
         "graphic:type": "window",
         "name": "Block B - Block 6.3",
         "graphic:height": 7
@@ -1912,7 +1809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6e",
         "graphic:type": "window",
         "name": "Block B - Block 6.4",
         "graphic:height": 7
@@ -1930,7 +1826,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade6f",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 6",
         "graphic:height": 7
@@ -1948,7 +1843,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade70",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -1966,7 +1860,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade71",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -1987,7 +1880,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade72",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2008,7 +1900,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade73",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2029,7 +1920,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade74",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2050,7 +1940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade75",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2068,7 +1957,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade76",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2086,7 +1974,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade77",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2104,7 +1991,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade78",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2122,7 +2008,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade79",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -2140,7 +2025,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7a",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -2158,7 +2042,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7b",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -2176,7 +2059,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7c",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -2194,7 +2076,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7d",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -2212,7 +2093,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7e",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -2230,7 +2110,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade7f",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -2248,7 +2127,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade80",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -2266,7 +2144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade81",
         "graphic:type": "window",
         "name": "Block B - Block 5.1",
         "graphic:height": 7
@@ -2284,7 +2161,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade82",
         "graphic:type": "window",
         "name": "Block B - Block 5.2",
         "graphic:height": 7
@@ -2302,7 +2178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade83",
         "graphic:type": "window",
         "name": "Block B - Block 5.3",
         "graphic:height": 7
@@ -2320,7 +2195,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade84",
         "graphic:type": "window",
         "name": "Block B - Block 5.4",
         "graphic:height": 7
@@ -2338,7 +2212,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade85",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -2356,7 +2229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade86",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2377,7 +2249,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade87",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2398,7 +2269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade88",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2419,7 +2289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade89",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2440,7 +2309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8a",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2458,7 +2326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8b",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2476,7 +2343,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8c",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2494,7 +2360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8d",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2512,7 +2377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8e",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -2530,7 +2394,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade8f",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -2548,7 +2411,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade90",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -2566,7 +2428,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade91",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -2584,7 +2445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade92",
         "graphic:type": "window",
         "name": "Block B - Block 4.1",
         "graphic:height": 7
@@ -2602,7 +2462,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade93",
         "graphic:type": "window",
         "name": "Block B - Block 4.2",
         "graphic:height": 7
@@ -2620,7 +2479,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade94",
         "graphic:type": "window",
         "name": "Block B - Block 4.3",
         "graphic:height": 7
@@ -2638,7 +2496,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade95",
         "graphic:type": "window",
         "name": "Block B - Block 4.4",
         "graphic:height": 7
@@ -2656,7 +2513,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade96",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -2674,7 +2530,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade97",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2695,7 +2550,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade98",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2716,7 +2570,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade99",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2737,7 +2590,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9a",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2758,7 +2610,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9b",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2776,7 +2627,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9c",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2794,7 +2644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9d",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2812,7 +2661,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9e",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -2830,7 +2678,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09ade9f",
         "graphic:type": "window",
         "name": "Block B - Block 3.1",
         "graphic:height": 7
@@ -2848,7 +2695,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea0",
         "graphic:type": "window",
         "name": "Block B - Block 3.2",
         "graphic:height": 7
@@ -2866,7 +2712,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea1",
         "graphic:type": "window",
         "name": "Block B - Block 3.3",
         "graphic:height": 7
@@ -2884,7 +2729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea2",
         "graphic:type": "window",
         "name": "Block B - Block 3.4",
         "graphic:height": 7
@@ -2902,7 +2746,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea3",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -2920,7 +2763,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea4",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -2941,7 +2783,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea5",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -2962,7 +2803,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea6",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -2983,7 +2823,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea7",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -3004,7 +2843,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea8",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -3022,7 +2860,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adea9",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -3040,7 +2877,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeaa",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -3058,7 +2894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeab",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -3076,7 +2911,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeac",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7
@@ -3094,7 +2928,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adead",
         "graphic:type": "window",
         "name": "Block B - Block 2.1",
         "graphic:height": 7
@@ -3115,7 +2948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeae",
         "graphic:type": "window",
         "name": "Block B - Block 2.2",
         "graphic:height": 7
@@ -3136,7 +2968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeaf",
         "graphic:type": "window",
         "name": "Block B - Block 2.3",
         "graphic:height": 7
@@ -3157,7 +2988,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeb0",
         "graphic:type": "window",
         "name": "Block B - Block 2.4",
         "graphic:height": 7
@@ -3178,7 +3008,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe3691e28b0a324a09adeb1",
         "graphic:type": "window",
         "name": "Block B - EDGE - Block 1",
         "graphic:height": 7

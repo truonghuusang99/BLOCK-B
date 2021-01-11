@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd71c89f771292a301a42ef",
         "name": "Thang bộ",
         "graphic:height": 51,
         "graphic:type": "stair",
@@ -29,7 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd71c89f771292a301a42f0",
         "name": "Thang bộ",
         "graphic:height": 71,
         "graphic:type": "stair",
@@ -51,7 +49,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd71c89f771292a301a42f1",
         "name": "Thang bộ",
         "graphic:height": 81,
         "graphic:type": "stair",
@@ -73,7 +70,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fd71c89f771292a301a42f2",
         "name": "Thang bộ",
         "graphic:height": 100.5,
         "graphic:type": "stair",

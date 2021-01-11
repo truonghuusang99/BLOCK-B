@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe179db983ef624b8d9193a",
         "graphic:type": "wall-line",
         "graphic:height": 2
       },

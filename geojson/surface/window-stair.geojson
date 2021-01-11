@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1fc2d110b6a47d48c7f3e",
         "graphic:type": "window-stair"
       },
       "geometry": {
@@ -55,7 +54,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1fd774456912d30079f38",
         "graphic:type": "window-stair",
         "maxFloor": 7
       },
@@ -96,7 +94,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1fd9bfdb1d540346e66d6",
         "graphic:type": "window-stair",
         "maxFloor": 6
       },
@@ -133,7 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1fdb259f97743d4495309",
         "graphic:type": "window-stair",
         "maxFloor": 4
       },
