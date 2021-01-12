@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe36c32f35daa74f811b0c0",
         "graphic:type": "door-line",
         "name": "Block B - ROOF - 5-6 "
       },
@@ -48,7 +47,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe36c32f35daa74f811b0c1",
         "graphic:type": "door-line",
         "name": "Block B - ROOF - 4-5"
       },
@@ -89,7 +87,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe36c32f35daa74f811b0c2",
         "graphic:type": "door-line",
         "name": "Block B - ROOF - 3-4"
       },
@@ -130,7 +127,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe36c32f35daa74f811b0c3",
         "graphic:type": "door-line",
         "name": "Block B - ROOF - 2-3"
       },
@@ -171,7 +167,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe36c32f35daa74f811b0c4",
         "graphic:type": "door-line",
         "name": "Block B - ROOF - 1-2"
       },

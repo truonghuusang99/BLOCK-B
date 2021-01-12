@@ -7,7 +7,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1f61db218b730e0abf2c3",
         "graphic:type": "window-stair-line"
       },
       "geometry": {
@@ -383,7 +382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1f64ab1f46b25f43ebd3c",
         "graphic:type": "window-stair-line"
       },
       "geometry": {
@@ -699,7 +697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1f6687d05784298f22151",
         "graphic:type": "window-stair-line"
       },
       "geometry": {
@@ -955,7 +952,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_id": "5fe1f68f7229e9570066fb6b",
         "graphic:type": "window-stair-line"
       },
       "geometry": {
